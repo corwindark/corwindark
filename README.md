@@ -8,7 +8,7 @@ This semester, I'm currently working on:
 - A new block-placement system for one of my Roblox games
 
 If you want to revew what I can do, here are quick links to some of my projects:
-- Keras neural networks and statistcal forecasting: My project integrating ANNs into statistcal ensembles for financial time series prediction
+- Keras neural networks and statistical forecasting: My project integrating ANNs into statistcal ensembles for financial time series prediction
 - Data visualization: An interactive story coded in Javascript on climate change in Bridges National Monument
 - R and Shiny web applications: A tool to rebalance my ETF portfolio automatically
 
