@@ -13,7 +13,5 @@ If you want to revew what I can do, here are quick links to some of my projects:
 - R and Shiny web applications: A tool to rebalance my ETF portfolio automatically
 
 Also, for fun, I have personal projects:
+- My Roblox games
 - My technical Minecraft channel
-- My Dotabuff
-- 
-
